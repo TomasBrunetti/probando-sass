@@ -1,0 +1,21 @@
+//variables 
+$colorprincipal: grey;
+$colorletra: purple ;
+//
+body{
+    background: $colorprincipal;
+    color : $colorletra;
+}
+//nesting
+.caja{
+    h2{
+        color:black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background: whitesmoke;
+        text-decoration: underline;
+
+    }
+}

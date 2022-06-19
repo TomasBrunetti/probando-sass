@@ -1,0 +1,16 @@
+body {
+  background: grey;
+  color: purple;
+}
+
+.caja h2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: whitesmoke;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=style.css.map */
